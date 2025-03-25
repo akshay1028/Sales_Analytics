@@ -1,1 +1,2 @@
-# Sales_Analytics
+# SQL Project - Sales_Analytics
+
